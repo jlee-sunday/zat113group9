@@ -9,3 +9,5 @@ for i in range(y):
     print(i)
     
 # changes
+
+# a simple way to add code
